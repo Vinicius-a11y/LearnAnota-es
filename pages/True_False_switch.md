@@ -1,5 +1,0 @@
-#Verdadeiramente e falsamente;
-
-Dentro do If os tipos de dados não booleanos, como strings ou números, são avaliados quando verificados dentro de uma condição. 
-
-Pode acontecer de querer verificar se alguma variável existe e saber o valor a atribuído ela caso exista.
